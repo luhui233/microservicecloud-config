@@ -9,6 +9,6 @@ spring:
         name: microservicecloud-config-hec-dev
 ---
 spring:
-    profiles：test   #测试环境
+    profiles: test  #测试环境
     application:
         name: microservicecloud-config-hec-test
