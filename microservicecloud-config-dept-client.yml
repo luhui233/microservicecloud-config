@@ -27,7 +27,7 @@ spring:
             prefer-ip-address: true #访问路径可以显示Ip地址
     
     info:
-        app.name: hec-microservicecloud
+        app.name: hec-microservicecloud01
         company.name: www.hec.com
         build.artifactId: $project.artifactId$
         build.version: $project.version$
@@ -53,7 +53,7 @@ spring:
             prefer-ip-address: true #访问路径可以显示Ip地址
     
     info:
-        app.name: hec-microservicecloud
+        app.name: hec-microservicecloud02
         company.name: www.hec.com
         build.artifactId: $project.artifactId$
         build.version: $project.version$
